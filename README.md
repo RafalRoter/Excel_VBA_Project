@@ -12,5 +12,5 @@ infinity there is disease free equilibrium or endemic equilibrium.
 
 ## Project files:
 
-VBA_Project.xlsm - file containing methods, functions and graphs (in Polish) \n
+VBA_Project.xlsm - file containing methods, functions and graphs (in Polish)  
 VBA_Project_Report.pdf - final report of the project
